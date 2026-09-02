@@ -1,0 +1,6 @@
+{
+  "name": "Dewacloud Server Dashboard",
+  "description": "Real-time server monitoring, SSH/SFTP management, web terminal console, Linux filesystem manager, and Grafana Loki-style Per-Service Log Explorer for Dewacloud Node 51917.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
